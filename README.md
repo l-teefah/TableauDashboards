@@ -5,6 +5,8 @@ This repository contains **Tableau dashboards** that I have designed to analyze 
 
 ## 📂 Table Of Contents
 
+- [US Mapping](US_Sales_Mapping.md)
+- [Covid Cases & Deaths Data](Covid_Data.md)
 
 ## 📥 Usage
 
@@ -19,7 +21,7 @@ This repository contains **Tableau dashboards** that I have designed to analyze 
 - **Data Sources** (Excel, CSV, SQL, API, etc.)
 
 ## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is open-source and primarily as a personal documentation process for me.
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the dashboard:
