@@ -13,7 +13,7 @@ This repository contains **Tableau dashboards** that I have designed to analyze 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/l-teefah/Tableau-Dashboard.git
+   git clone https://github.com/l-teefah/TableauDashboards/tree/main
    ```
 
 ## 🛠 Dependencies
