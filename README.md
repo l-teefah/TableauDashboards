@@ -13,7 +13,7 @@ This repository contains **Tableau dashboards** that I have designed to analyze 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/l-teefah/TableauDashboards/tree/main
+   git clone https://github.com/l-teefah/TableauDashboards.git
    ```
 
 ## 🛠 Dependencies
@@ -32,7 +32,7 @@ Contributions are welcome! If you'd like to improve the dashboard:
 ## 📩 Contact
 For questions or feedback, reach out via:
 - 📧 Email: lateefah_yusuf@yahoo.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/lateefahyusuf/)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/lateefahyusuf/)
 
 ---
 
