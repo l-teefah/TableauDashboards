@@ -24,8 +24,6 @@ order by 1,2
 
 
 -- 3.  Just a double check based off the data provided
--- numbers are extremely close so we will keep them - The Second includes "International"  Location
-
 
 --Select SUM(new_cases) as total_cases, SUM(cast(new_deaths as int)) as total_deaths, SUM(cast(new_deaths as int))/SUM(New_Cases)*100 as DeathPercentage
 --From PortfolioProject..CovidDeaths
@@ -34,11 +32,10 @@ order by 1,2
 ----Group By date
 --order by 1,2
 
-
--- We take these out as they are not included in the above queries and want to stay consistent
--- European Union is part of Europe
-
+	
+-- We take ('World', 'European Union', 'International') out in the code below as they are not included in the above queries and want to stay consistent
 -- Used in Tableau (Death Count Per Continent)
+	
 Select location, SUM(cast(new_deaths as int)) as TotalDeathCount
 From PortfolioProject..CovidDeaths
 --Where location like '%states%'
@@ -76,7 +73,6 @@ order by 1,2
 
 
 -- 6. 
-
 
 With PopvsVac (Continent, Location, Date, Population, New_Vaccinations, RollingPeopleVaccinated)
 as
