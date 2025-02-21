@@ -115,7 +115,8 @@ order by PercentPopulationInfected desc
 
 ---
 
-## **Queries Used in Tableau**
+## **Queries Result Used in Tableau Dashboard**
+
 | **Query Number** | **Sections in Tableau** |
 |-----------------|---------------------------|
 | **2** | Total Cases & Total Deaths |
