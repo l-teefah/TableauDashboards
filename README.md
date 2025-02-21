@@ -26,8 +26,7 @@ This project is open-source and primarily as a personal documentation process fo
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the dashboard:
 - Fork the repo
-- Create a new branch (`feature-branch`)
-- Submit a pull request
+- Create a new branch and submit a pull request
 
 ## 📩 Contact
 For questions or feedback, reach out via:
