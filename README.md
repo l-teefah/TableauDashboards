@@ -1,4 +1,4 @@
-# 📊 Tableau Dashboard Project
+# 📊 Tableau Dashboards
 
 ## 📌 Overview
 This repository contains **Tableau dashboards** that I have designed to analyze and visualize key insights from different data. The dashboard is built using **Tableau Desktop** and includes interactive visualizations for data-driven decision-making. My profile link is [here](https://public.tableau.com/app/profile/lateefah8519/vizzes)
