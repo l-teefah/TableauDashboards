@@ -4,7 +4,7 @@
 ## Overview
 This documentation provides a summary of the SQL queries used to analyze COVID-19 data from the [CovidDeaths file](CovidDeaths.xlsx) and [CovidVaccinations file](CovidVaccinations.xlsx) datasets for a Tableau dashboard. The queries extracts total cases, deaths, vaccination trends, and infection percentages. 
 
-Here is a 
+Here is a picture of the dashboard
 
 ![picture of the dashboard](https://github.com/user-attachments/assets/922f7c60-f288-45f8-8c61-0aaa3720ef1f) 
 
